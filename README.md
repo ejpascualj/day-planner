@@ -2,7 +2,7 @@
 
 ## Description
 
-Day Planner App is a simple calendar application that allows user to save events for each hour of the day and store the information locally on their browser. This app's formatting is updated dinamycally based on the time of date it is.
+Day Planner App is a simple calendar application that allows user to save events for each hour of the day and store the information locally on their browser. This app's formatting is updated dynamically based on the current date.
 
 ### Links
 
