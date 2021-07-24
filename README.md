@@ -2,7 +2,7 @@
 
 ## Description
 
-
+Day Planner App is a simple calendar application that allows user to save events for each hour of the day and store the information locally on their browser. This app's formatting is updated dinamycally based on the time of date it is.
 
 ### Links
 
@@ -13,9 +13,18 @@
 
 ![DayPlanner app demo.](./assets/day-planner-demo.gif/)
 
-
 ## Development & Features
 
+The technologies used for this development include: 
+* jQuery
+* JavaScript
+* Moment.js
+* Bootstrap
+The features of the app include:
+* live update of date and time using Moment.js
+* text boxes for users to input their events
+* conditional formatting of each time block based on the current time
+* local storage of information for access even after the window has been closed
 
 
 ## License
