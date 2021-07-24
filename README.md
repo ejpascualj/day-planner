@@ -20,6 +20,8 @@ The technologies used for this development include:
 * JavaScript
 * Moment.js
 * Bootstrap
+
+
 The features of the app include:
 * live update of date and time using Moment.js
 * text boxes for users to input their events
